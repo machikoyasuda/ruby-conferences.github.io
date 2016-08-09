@@ -55,7 +55,7 @@
 
 - name: RubyConf Brazil
   location: São Paulo, Brazil
-  dates: "September 23-24, 2016"
+  dates: "September 23-24, 2016"a
   url: http://rubyconfbrcfp.com.br/
   twitter: rubyconfbr
   reg_phrase: Registration is open
@@ -79,6 +79,14 @@
   dates: "October 27-28, 2016"
   url: http://rubyconf.pt/
   twitter: rubyconfpt
+  reg_phrase: Registration is open
+  cfp_phrase: CFP is open
+
+- name: Keep Ruby Weird
+  location: Austin, TX
+  dates: "October 28, 2016"
+  url: http://keeprubyweird.com/
+  twitter: keeprubyweird
   reg_phrase: Registration is open
   cfp_phrase: CFP is open
 
